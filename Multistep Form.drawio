@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T23:38:35.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="waIpka4G_CnWdymTT-81" version="14.4.4" type="github"><diagram id="EbOrB1GdHPMLg3S_a3iv" name="Page-1">zZNNT4QwEIZ/DUcNpbuuXmVXPbgeJNGjaehIawrFUiz46y225SNkEz2YeCEzz3x0+k6JcFp2t4rU7CgpiCiJaRfhfZQkV3hrvwPoHdhtdg4UilOH0AQy/gkexp62nEKzSNRSCs3rJcxlVUGuF4woJc0y7VWK5ak1KWAFspyINX3mVDNHL7fxxO+AFyycjGIfKUlI9qBhhEozQ/gQ4VRJqZ1VdimIQbugi6u7OREdB1NQ6Z8UGMroS3+Rvnfy4fF4T1ON9meJ6/JBROsvzCsK3flb44fWfVBCydaGhmZxhK8N4xqymuRD1NjVW8Z0KayHrOnbgtLQnZwXjSrY1wOyBK16m+ILNkHJPvjONdMaUNCWzVYQ8ojffDF2nsSxhtfnF1rhlVYZs7ehTxzMfxQM/aFi1p1e7nds9vvjwxc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-05T23:57:29.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="J0Pl037UEveWlbYDezsb" version="14.4.4" type="github">
+  <diagram id="EbOrB1GdHPMLg3S_a3iv" name="Page-1">
+    <mxGraphModel dx="935" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wdhd_y6CqxoNRMLdCt1D-2" value="&lt;pre&gt;index.js&lt;/pre&gt;" style="whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wdhd_y6CqxoNRMLdCt1D-3" value="&lt;pre&gt;SharedView.js&lt;/pre&gt;" style="whiteSpace=wrap;html=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At-aW5_m53lpBGhoe7sm-2" value="Multistep Forms" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;sketch=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="At-aW5_m53lpBGhoe7sm-3" value="&lt;pre style=&quot;line-height: 90%&quot;&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;&lt;b&gt;viewDictionary:&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;- CardProps&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;- Component&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;- FormInput&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;- Namespace&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 14px ; line-height: 70%&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;sketch=1;fontSize=26;align=left;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="700" y="75" width="140" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="At-aW5_m53lpBGhoe7sm-5" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="120" as="sourcePoint" />
+            <mxPoint x="520" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="At-aW5_m53lpBGhoe7sm-6" value="" style="endArrow=classic;html=1;fontSize=26;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="80" as="sourcePoint" />
+            <mxPoint x="690" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
